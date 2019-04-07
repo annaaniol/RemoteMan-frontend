@@ -1,0 +1,16 @@
+#parentdiv {
+  position: relative;
+  width: 150px;
+  height: 150px;
+  background-color: #ac5;
+  border-radius: 150px;
+  margin: 150px;
+}
+
+.div2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  background-color: #ac5;
+  border-radius: 100px;
+}
